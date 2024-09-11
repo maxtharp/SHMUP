@@ -1,9 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1726071984
-enemy.tscn::PackedScene::4791200929622535957::1726071963::0::1::::<><>::res://enemy.gd<>uid://cn1bmt7j8qb7b::::res://sprites/enemy.png
-node_2d.tscn::PackedScene::1099458873174406386::1726071973::0::1::::<><>::res://scripts/player.gd<>res://scripts/SHMUP.gd<>uid://c0holnopoer2g::::res://sprites/ship.png<>res://scripts/enemy_spawner.gd<>res://scripts/label.gd
-::res://scenes/::1726071984
+::res://::1726078533
+::res://scenes/::1726071992
 bullet.tscn::PackedScene::2115268903030925511::1726071958::0::1::::<><>::res://scripts/bullet.gd<>uid://dvc8soqjbhl75::::res://sprites/bullet.png
+enemy.tscn::PackedScene::4791200929622535957::1726071963::0::1::::<><>::res://scripts/enemy.gd<>uid://cn1bmt7j8qb7b::::res://sprites/enemy.png
+node_2d.tscn::PackedScene::1099458873174406386::1726071992::0::1::::<><>::res://scripts/SHMUP.gd<>res://scripts/player.gd<>uid://c0holnopoer2g::::res://sprites/ship.png<>res://scripts/enemy_spawner.gd<>res://scripts/label.gd
 ::res://scripts/::1726071973
 bullet.gd::GDScript::-1::1725903537::0::1::::<>RigidBody2D<>::
 enemy.gd::GDScript::-1::1725903587::0::1::::<>RigidBody2D<>::

@@ -4,7 +4,7 @@ const FRICTION = 30
 const SPEED = 400
 const ACCELERATION = 100
 
-@export var bullet_resource = preload("res://bullet.tscn")
+@export var bullet_resource = preload("res://scenes/bullet.tscn")
 var input_vector = Vector2.ZERO
 
 func _physics_process(delta: float) -> void:

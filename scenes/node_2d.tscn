@@ -27,6 +27,7 @@ shape = SubResource("CircleShape2D_2yf6t")
 script = ExtResource("4_u0fe2")
 
 [node name="Timer" type="Timer" parent="EnemySpawner"]
+wait_time = 2.0
 autostart = true
 
 [node name="Label" type="Label" parent="."]
